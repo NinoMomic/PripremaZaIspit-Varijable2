@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\PripremaZaIspitZnanja8\bin\Debug\PripremaZaIspitZnanja8.exe.config
+C:\Users\ucenik\source\repos\PripremaZaIspitZnanja8\bin\Debug\PripremaZaIspitZnanja8.exe
+C:\Users\ucenik\source\repos\PripremaZaIspitZnanja8\bin\Debug\PripremaZaIspitZnanja8.pdb
+C:\Users\ucenik\source\repos\PripremaZaIspitZnanja8\obj\Debug\PripremaZaIspitZnanja8.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\PripremaZaIspitZnanja8\obj\Debug\PripremaZaIspitZnanja8.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\PripremaZaIspitZnanja8\obj\Debug\PripremaZaIspitZnanja8.exe
+C:\Users\ucenik\source\repos\PripremaZaIspitZnanja8\obj\Debug\PripremaZaIspitZnanja8.pdb
