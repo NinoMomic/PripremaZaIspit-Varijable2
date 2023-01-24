@@ -25,7 +25,8 @@ namespace PripremaZaIspitZnanja8
             { 
             Console.WriteLine("PDV iznosi {0} %",
             (sPDV - bezPDV) / bezPDV * 100);
-            }
+             
+            Console.ReadKey();
         }
     }
 }
